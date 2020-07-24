@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/day20_Tomcat/day20_Tomcat.iml" filepath="$PROJECT_DIR$/day20_Tomcat/day20_Tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/day21_Servlet/day21_Servlet.iml" filepath="$PROJECT_DIR$/day21_Servlet/day21_Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_practice/day21_practice.iml" filepath="$PROJECT_DIR$/day21_practice/day21_practice.iml" />
     </modules>
   </component>
 </project>

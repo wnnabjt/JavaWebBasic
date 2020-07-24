@@ -1,4 +1,4 @@
-package request;
+package practice.login.Servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -7,20 +7,19 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet("/demo03Request")
-public class Demo03Request extends HttpServlet {
+@WebServlet("/failServlet")
+public class FailServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        //给页面写一句话
+
+        //设置编码
+        response.setContentType("text/html;charset=utf-8");
+        //输出
+        response.getWriter().write("登录失败，用户名或密码错误");
 
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String referer = request.getHeader("referer");
-        if(referer.contains("/day21")) {
-            //正常访问
-            System.out.println("电影马上播放");
-        } else {
-            //盗链
-            System.out.println("想看电影吗，请来优酷吧");
-        }
+        this.doPost(request,response);
     }
 }
