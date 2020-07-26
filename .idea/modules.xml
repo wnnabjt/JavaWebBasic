@@ -6,6 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/day20_Tomcat/day20_Tomcat.iml" filepath="$PROJECT_DIR$/day20_Tomcat/day20_Tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/day21_Servlet/day21_Servlet.iml" filepath="$PROJECT_DIR$/day21_Servlet/day21_Servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/day21_practice/day21_practice.iml" filepath="$PROJECT_DIR$/day21_practice/day21_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_request/day21_request.iml" filepath="$PROJECT_DIR$/day21_request/day21_request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23_Cookie/day23_Cookie.iml" filepath="$PROJECT_DIR$/day23_Cookie/day23_Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23_ServletContext/day23_ServletContext.iml" filepath="$PROJECT_DIR$/day23_ServletContext/day23_ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23_ServletDownloadFile/day23_ServletDownloadFile.iml" filepath="$PROJECT_DIR$/day23_ServletDownloadFile/day23_ServletDownloadFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23_response/day23_response.iml" filepath="$PROJECT_DIR$/day23_response/day23_response.iml" />
     </modules>
   </component>
 </project>
