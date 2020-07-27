@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="day23_Cookie:war exploded2" />
+      <artifact name="day24_UserLoginAndCheckCode:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="BranchesTreeState">
@@ -25,58 +25,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa721aa-2213-4a4b-ad25-f5791b52f8e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FileDownload_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day21_request_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day23_Cookie_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day23_Cookie_war_exploded2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day23_ServletContext_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day23_ServletDownloadFile_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day23_response_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/day21_request.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/src/RequestDemo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21_request/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_Cookie/day23_Cookie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_Cookie/src/CookieBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_Cookie/src/CookieJudgeReVisit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_Cookie/src/GetCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_Cookie/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/day23_ServletContext.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/src/ServletContext/DomainObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/src/ServletContext/GetDomainObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/src/ServletContext/GetRealPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/src/ServletContext/GetServletContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/src/ServletContext/GetServletMimeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/src/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/web/WEB-INF/c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/web/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletContext/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/day23_ServletDownloadFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/src/DownLoadUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/src/DownloadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/web/download.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/web/img/1.mkv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/web/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/web/img/九尾.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_ServletDownloadFile/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/day23_response.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/src/Demo05CheckCodeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/src/ResponseDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/src/ResponseDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/src/ResponseDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/src/ResponseDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_response/web/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/笔记/Response笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/笔记/会话技术和JSP基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day24_JSP_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day24_UserLoginAndCheckCode_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_JSP/day24_JSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_JSP/src/Session/GetDomainObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_JSP/src/Session/GetSessionAndDomainObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_JSP/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_JSP/web/showHome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/day24_UserLoginAndCheckCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/CheckCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/mchange-commons-java-0.2.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web/success.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -90,6 +65,7 @@
       <list>
         <option value="Class" />
         <option value="HTML File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -129,29 +105,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day23_ServletDownloadFile/src" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day24_UserLoginAndCheckCode/web" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day24_UserLoginAndCheckCode\web" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day24_UserLoginAndCheckCode\src" />
       <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\src" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\web\utils" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\web\img" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day21_request\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\src" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\web\img" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day21_request\src" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day21_practice\web\WEB-INF\lib" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day21_practice\web\WEB-INF" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\web\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+  <component name="RunManager" selected="JUnit.UserDaoTest.testLogin (1)">
     <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="adminPort" value="8005" />
       <option name="allowRunningInParallel" value="false" />
@@ -189,6 +165,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserDaoTest.testLogin (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day24_UserLoginAndCheckCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserDaoTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserDaoTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day21_practice" />
       <extension name="coverage">
@@ -206,11 +192,12 @@
       </method>
     </configuration>
     <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="day23_Cookie:war exploded2">
+        <artifact name="day24_UserLoginAndCheckCode:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/day23" />
+            <option name="CONTEXT_PATH" value="/day24" />
           </settings>
         </artifact>
       </deployment>
@@ -273,7 +260,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="day23_Cookie:war exploded2" />
+          <artifact name="day24_UserLoginAndCheckCode:war exploded" />
         </option>
       </method>
     </configuration>
@@ -345,9 +332,11 @@
       <item itemvalue="JUnit.UserDaoTest" />
       <item itemvalue="JUnit.UserDaoTest.testLogin" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+      <item itemvalue="JUnit.UserDaoTest.testLogin (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserDaoTest.testLogin (1)" />
         <item itemvalue="JUnit.UserDaoTest.testLogin" />
         <item itemvalue="JUnit.UserDaoTest" />
       </list>
@@ -374,6 +363,7 @@
       <workItem from="1595604912831" duration="1858000" />
       <workItem from="1595728404823" duration="15235000" />
       <workItem from="1595770746548" duration="5547000" />
+      <workItem from="1595811620054" duration="12894000" />
     </task>
     <servers />
   </component>
@@ -397,10 +387,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="85" y="0" key="#Project_Structure" timestamp="1595757378742">
+    <state x="85" y="0" key="#Project_Structure" timestamp="1595824375206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="85" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595757378742" />
+    <state x="85" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595824375206" />
     <state x="483" y="284" key="#Tomcat_Server" timestamp="1595513313813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -409,14 +399,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="201" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1595515651154" />
-    <state x="197" y="92" width="1038" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595776774258">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595812999367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="197" y="92" width="1038" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595776774258" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595812999367" />
+    <state x="171" y="91" width="1038" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595824375924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="171" y="91" width="1038" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595824375924" />
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1595602269990">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595602269990" />
+    <state x="368" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595824397315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1595824397315" />
     <state x="322" y="82" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1595552081382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -433,82 +431,82 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595602079470" />
-    <state x="280" y="308" key="FileChooserDialogImpl" timestamp="1595757378133">
+    <state x="280" y="308" key="FileChooserDialogImpl" timestamp="1595824373808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="280" y="308" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595757378133" />
-    <state width="487" height="307" key="GridCell.Tab.0.bottom" timestamp="1595778123928">
+    <state x="280" y="308" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595824373808" />
+    <state width="1495" height="211" key="GridCell.Tab.0.bottom" timestamp="1595826162869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595778123928" />
-    <state width="487" height="307" key="GridCell.Tab.0.center" timestamp="1595778123928">
+    <state width="1495" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595826162869" />
+    <state width="1495" height="211" key="GridCell.Tab.0.center" timestamp="1595826162869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595778123928" />
-    <state width="487" height="307" key="GridCell.Tab.0.left" timestamp="1595778123928">
+    <state width="1495" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595826162869" />
+    <state width="1495" height="211" key="GridCell.Tab.0.left" timestamp="1595826162869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595778123928" />
-    <state width="487" height="307" key="GridCell.Tab.0.right" timestamp="1595778123928">
+    <state width="1495" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595826162869" />
+    <state width="1495" height="211" key="GridCell.Tab.0.right" timestamp="1595826162869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595778123928" />
-    <state width="487" height="307" key="GridCell.Tab.1.bottom" timestamp="1595778123929">
+    <state width="1495" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595826162869" />
+    <state width="1025" height="307" key="GridCell.Tab.1.bottom" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.1.center" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.1.center" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.1.left" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.1.left" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.1.right" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.1.right" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.2.bottom" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.2.bottom" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.2.center" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.2.center" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.2.left" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.2.left" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="487" height="307" key="GridCell.Tab.2.right" timestamp="1595778123929">
+    <state width="1025" height="307" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.2.right" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="487" height="307" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1595778123929" />
-    <state width="1025" height="307" key="GridCell.Tab.3.bottom" timestamp="1595777903862">
+    <state width="1025" height="307" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.3.bottom" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="307" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595777903862" />
-    <state width="1025" height="307" key="GridCell.Tab.3.center" timestamp="1595777903862">
+    <state width="1025" height="307" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.3.center" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="307" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1595777903862" />
-    <state width="1025" height="307" key="GridCell.Tab.3.left" timestamp="1595777903861">
+    <state width="1025" height="307" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.3.left" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="307" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1595777903861" />
-    <state width="1025" height="307" key="GridCell.Tab.3.right" timestamp="1595777903862">
+    <state width="1025" height="307" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state width="1025" height="307" key="GridCell.Tab.3.right" timestamp="1595826162866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="307" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1595777903862" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1595771646839">
+    <state width="1025" height="307" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1595826162866" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1595812681084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595771646839" />
-    <state x="394" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595602013383">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595812681084" />
+    <state x="394" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595825790059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="394" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1595602013383" />
+    <state x="394" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1595825790059" />
     <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1595730449775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -517,18 +515,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1595603595464" />
-    <state x="5" y="0" key="new project wizard" timestamp="1595771357648">
+    <state x="5" y="0" key="new project wizard" timestamp="1595817023379">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="5" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595771357648" />
+    <state x="5" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595817023379" />
     <state x="422" y="220" width="654" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1595512933284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="422" y="220" width="654" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1595512933284" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595771702714">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595823251223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595771702714" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595823251223" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
