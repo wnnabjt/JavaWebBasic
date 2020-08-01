@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/day23_response/day23_response.iml" filepath="$PROJECT_DIR$/day23_response/day23_response.iml" />
       <module fileurl="file://$PROJECT_DIR$/day24_JSP/day24_JSP.iml" filepath="$PROJECT_DIR$/day24_JSP/day24_JSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/day24_UserLoginAndCheckCode/day24_UserLoginAndCheckCode.iml" filepath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/day24_UserLoginAndCheckCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day29_JSPBasic/day29_JSPBasic.iml" filepath="$PROJECT_DIR$/day29_JSPBasic/day29_JSPBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day29_UserCRUD/day29_UserCRUD.iml" filepath="$PROJECT_DIR$/day29_UserCRUD/day29_UserCRUD.iml" />
     </modules>
   </component>
 </project>
