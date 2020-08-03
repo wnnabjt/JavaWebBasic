@@ -1,6 +1,7 @@
 package service;
 
 
+import userCRUD.PageBean;
 import userCRUD.User;
 
 import java.util.List;
@@ -16,4 +17,21 @@ public interface UserService {
      */
     public abstract List<User> findAll();
 
+    public abstract User login(User user);
+
+    /**
+     * 保存user
+     * @param user
+     */
+    void addUser(User user);
+
+    void delete(String id);
+
+    User findUserById(String id);
+
+    void updateUser(User user);
+
+    void delSelected(String[] ids);
+
+    PageBean<User> findUserByPage(String currentPage, String rows);
 }
