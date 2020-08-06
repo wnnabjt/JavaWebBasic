@@ -15,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/day24_UserLoginAndCheckCode/day24_UserLoginAndCheckCode.iml" filepath="$PROJECT_DIR$/day24_UserLoginAndCheckCode/day24_UserLoginAndCheckCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/day29_JSPBasic/day29_JSPBasic.iml" filepath="$PROJECT_DIR$/day29_JSPBasic/day29_JSPBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/day29_UserCRUD/day29_UserCRUD.iml" filepath="$PROJECT_DIR$/day29_UserCRUD/day29_UserCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day33_Filter/day33_Filter.iml" filepath="$PROJECT_DIR$/day33_Filter/day33_Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day34_JQueryBasic/day34_JQueryBasic.iml" filepath="$PROJECT_DIR$/day34_JQueryBasic/day34_JQueryBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day34_JQueryHigh/day34_JQueryHigh.iml" filepath="$PROJECT_DIR$/day34_JQueryHigh/day34_JQueryHigh.iml" />
     </modules>
   </component>
 </project>

@@ -3,6 +3,7 @@ package dao;
 import userCRUD.User;
 
 import java.util.List;
+import java.util.Map;
 
 public interface UserDao {
 
@@ -18,7 +19,7 @@ public interface UserDao {
 
     void update(User user);
 
-    int findTotalCount();
+    int findTotalCount(Map<String, String[]> condition);
 
-    List<User> findUserByPage(int start, int rows);
+    List<User> findUserByPage(int start, int rows, Map<String, String[]> condition);
 }

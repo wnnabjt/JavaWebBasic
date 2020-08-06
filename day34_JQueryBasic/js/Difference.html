@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Difference</title>
+    <script src="jquery-3.3.1.min.js"></script>
+</head>
+<body>
+
+<div id="div1">div1....</div>
+<div id="div2">div2....</div>
+
+<script>
+    var div1 = $("#div1");
+    var div2 = $("#div2");
+
+    // 使用js方法对对象进行操作
+    var divs = document.getElementsByTagName("div");
+    for(var i = 0; i < divs.length; i ++) {
+        divs[i].innerHTML = "aAAA";
+    }
+
+    // 使用jq框架对对象进行操作
+    var $divs = $("div");
+    $divs.html("bBBB");
+
+    // js -> jq
+    $(divs).html("cCCC");
+
+    // jq -> js
+    $divs[0].innerHTML = "dDDD";
+    $divs.get(1).innerHTML = "eEEE";
+
+</script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="day29_UserCRUD:war exploded" />
+      <artifact name="day29_UserCRUD:war" />
     </artifacts-to-build>
   </component>
   <component name="BranchesTreeState">
@@ -25,42 +25,126 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaa721aa-2213-4a4b-ad25-f5791b52f8e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/userCRUD/PageBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/AddUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/CheckCodeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/DelSelectedServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/DelUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/FindUserByPageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/FindUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/UpdateUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/web/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day29_UserCRUD_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day33_Filter_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day34_JQuery_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day29_UserCRUD/src/Filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/day33_Filter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/Filter/SensitiveWordsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/proxy/Lenovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/proxy/SaleComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/filter/FilterDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/listener/ContextLoaderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/servlet/ServletDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/src/web/servlet/ServletDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/web/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33_Filter/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/day34_JQueryBasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/01.隔行换色/01.隔行换色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/02.全选和全不选/全选和全不选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/QQ表情选择.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/08.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/03.QQ表情选择/img/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/04.多选下拉列表左右移动/左右移动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/Difference.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/JQuery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/dom操作/01-html&amp;text&amp;val.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/dom操作/02-prop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/dom操作/03-class&amp;css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/dom操作/04-create&amp;append.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/dom操作/05-remove.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/事件绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/选择器/01-基本选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/选择器/02-属性选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/选择器/03-层级选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/选择器/04-过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryBasic/js/选择器/05-表单过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/01-jquery动画/01-显示隐藏动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/02-jquery遍历/01-遍历.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/03-jquery事件绑定与解绑/01-绑定事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/03-jquery事件绑定与解绑/02-on绑定事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/03-jquery事件绑定与解绑/03-事件切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/04-jQuery综合案例/广告的自动显示与隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/04-jQuery综合案例/抽奖.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/05-jQuery的插件/01-jQuery对象进行方法扩展.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/05-jQuery的插件/02-jQuery全局进行方法扩展.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/adv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/img/man06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34_JQueryHigh/js/jquery-migrate-1.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/Filter&amp;Listener笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/JQuery基础笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/JQuery高级笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FileDownload_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day21_Servlet_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day21_practice_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day21_request_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day23_Cookie_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day23_Cookie_war_exploded2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day23_ServletContext_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day23_ServletDownloadFile_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day23_response_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day24_JSP_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day24_UserLoginAndCheckCode_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day29_JSPBasic_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/day29_UserCRUD_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/day29_UserCRUD_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day29_UserCRUD/src/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/src/dao/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day29_UserCRUD/src/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/src/dao/impl/UserDaoImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day29_UserCRUD/src/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/src/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day29_UserCRUD/src/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/src/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29_UserCRUD/src/userCRUD/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/src/userCRUD/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29_UserCRUD/web/add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29_UserCRUD/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/FindUserByPageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/src/web/servlet/FindUserByPageServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day29_UserCRUD/web/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/web/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29_UserCRUD/web/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/web/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day29_UserCRUD/web/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/day29_UserCRUD/web/update.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/dao/UserDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/dao/impl/UserDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/service/UserService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/userCRUD/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/userCRUD/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/web/servlet/FindUserByPageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/WEB-INF/classes/web/servlet/FindUserByPageServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/day29_UserCRUD_war_exploded/update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaWeb/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/META-INF/day21_Servlet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo01Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo02Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo03Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo04Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo05Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo06Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo07Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day21_Servlet/request/Demo08Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day24_UserLoginAndCheckCode/UserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day24_UserLoginAndCheckCode/UserDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day29_JSPBasic/META-INF/day29_JSPBasic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/META-INF/day29_UserCRUD.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day29_UserCRUD/dao/UserDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day29_UserCRUD/dao/impl/UserDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day29_UserCRUD/service/UserService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day29_UserCRUD/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/userCRUD/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day29_UserCRUD/userCRUD/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day29_UserCRUD/web/servlet/FindUserByPageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day29_UserCRUD/web/servlet/FindUserByPageServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +154,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -113,24 +197,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day29_UserCRUD/web" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day34_JQueryHigh/js" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day29_UserCRUD\web" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day29_UserCRUD\src\web\servlet" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day29_UserCRUD\src\util" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day29_UserCRUD\src" />
-      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day29_UserCRUD\web\WEB-INF\lib" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day34_JQueryHigh\js" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day34_JQueryHigh" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day34_JQuery\js" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day33_Filter\web" />
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day33_Filter\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day34_JQuery\js" />
       <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\src" />
       <recent name="C:\Users\Cruelking\Desktop\JavaWeb\day23_ServletDownloadFile\web\utils" />
     </key>
@@ -201,12 +286,11 @@
     </configuration>
     <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="day29_UserCRUD:war exploded">
+        <artifact name="day29_UserCRUD_war_exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/day29" />
+            <option name="CONTEXT_PATH" value="/day29_UserCRUD_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -269,13 +353,22 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="day29_UserCRUD:war exploded" />
+          <artifact name="day29_UserCRUD_war_exploded" />
+          <artifact name="day33_Filter:war exploded" />
+          <artifact name="day34_JQuery:war exploded" />
         </option>
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
+      <deployment>
+        <artifact name="day29_UserCRUD_war_exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day29_UserCRUD_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_JavaWeb" />
       </server-settings>
@@ -334,6 +427,11 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day29_UserCRUD_war_exploded" />
+          <artifact name="day33_Filter:war exploded" />
+          <artifact name="day34_JQuery:war exploded" />
+        </option>
       </method>
     </configuration>
     <list>
@@ -382,6 +480,20 @@
       <workItem from="1596416446140" duration="13994000" />
       <workItem from="1596443702535" duration="166000" />
       <workItem from="1596448827988" duration="1808000" />
+      <workItem from="1596501305053" duration="3217000" />
+      <workItem from="1596505842495" duration="2105000" />
+      <workItem from="1596508823519" duration="315000" />
+      <workItem from="1596509169224" duration="325000" />
+      <workItem from="1596509553582" duration="103000" />
+      <workItem from="1596509740223" duration="145000" />
+      <workItem from="1596509932263" duration="308000" />
+      <workItem from="1596510333916" duration="890000" />
+      <workItem from="1596591301010" duration="1588000" />
+      <workItem from="1596593709740" duration="1376000" />
+      <workItem from="1596690802376" duration="729000" />
+      <workItem from="1596691601203" duration="40000" />
+      <workItem from="1596699615873" duration="11185000" />
+      <workItem from="1596720448882" duration="6953000" />
     </task>
     <servers />
   </component>
@@ -405,14 +517,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="556" y="213" key="#BuildArtifactsBeforeRunChooser" timestamp="1596508991743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="213" key="#BuildArtifactsBeforeRunChooser/0.0.1536.824@0.0.1536.824" timestamp="1596508991743" />
     <state x="763" y="94" key="#Inspections" timestamp="1596252103545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="763" y="94" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1596252103545" />
-    <state x="85" y="0" key="#Project_Structure" timestamp="1595824375206">
+    <state x="54" y="0" key="#Project_Structure" timestamp="1596720692901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="85" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595824375206" />
+    <state x="54" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596720692901" />
     <state x="483" y="284" key="#Tomcat_Server" timestamp="1595513313813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -425,10 +541,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595812999367" />
-    <state x="-123" y="148" width="1038" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596439235949">
+    <state x="324" y="61" width="1038" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596511148029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-123" y="148" width="1038" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596439235949" />
+    <state x="324" y="61" width="1038" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596511148029" />
     <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1596427087901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -449,62 +565,62 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="348" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1595599138388" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596339741727">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596591610460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596339741727" />
-    <state x="280" y="308" key="FileChooserDialogImpl" timestamp="1595824373808">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596591610460" />
+    <state x="280" y="308" key="FileChooserDialogImpl" timestamp="1596509425256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="280" y="308" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595824373808" />
-    <state width="1025" height="364" key="GridCell.Tab.0.bottom" timestamp="1596450644300">
+    <state x="280" y="308" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596509425256" />
+    <state width="1025" height="412" key="GridCell.Tab.0.bottom" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.0.center" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.0.center" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.0.left" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.0.left" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.0.right" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.0.right" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.1.bottom" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.1.bottom" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.1.center" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.1.center" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.1.left" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.1.left" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.1.right" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.1.right" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.2.bottom" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.2.bottom" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.2.center" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.2.center" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.2.left" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.2.left" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
-    <state width="1025" height="364" key="GridCell.Tab.2.right" timestamp="1596450644300">
+    <state width="1025" height="412" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
+    <state width="1025" height="412" key="GridCell.Tab.2.right" timestamp="1596511225030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1025" height="364" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596450644300" />
+    <state width="1025" height="412" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1596511225030" />
     <state width="1025" height="364" key="GridCell.Tab.3.bottom" timestamp="1596443868338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -521,10 +637,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1025" height="364" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1596443868338" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1595812681084">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1596510778916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595812681084" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596510778916" />
     <state x="394" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595825790059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -537,14 +653,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1595603595464" />
-    <state x="5" y="0" key="new project wizard" timestamp="1596292495702">
+    <state x="5" y="0" key="new project wizard" timestamp="1596720665416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="5" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596292495702" />
+    <state x="5" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596720665416" />
     <state x="422" y="220" width="654" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1595512933284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="422" y="220" width="654" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1595512933284" />
+    <state x="493" y="170" key="refactoring.ChangeSignatureDialog" timestamp="1596502658905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="170" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1596502658905" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1596721625860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596721625860" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596335000974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

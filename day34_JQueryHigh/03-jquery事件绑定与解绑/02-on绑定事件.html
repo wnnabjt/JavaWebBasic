@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#btn").on("click", function() {
+                alert("单击事件绑定成功");
+            })
+            $("#btn2").on("click", function() {
+                /*$("#btn").off("click");
+                alert("单击事件取消绑定");*/
+                $("#btn").off();// 不传参数默认取消所有单击事件
+                alert("取消绑定所有的单击事件");
+            })
+        })
+
+    </script>
+</head>
+<body>
+<input id="btn" type="button" value="使用on绑定点击事件">
+<input id="btn2" type="button" value="使用off解绑点击事件">
+</body>
+</html>

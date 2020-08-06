@@ -5,6 +5,7 @@ import userCRUD.PageBean;
 import userCRUD.User;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * 用户管理的业务接口
@@ -33,5 +34,5 @@ public interface UserService {
 
     void delSelected(String[] ids);
 
-    PageBean<User> findUserByPage(String currentPage, String rows);
+    PageBean<User> findUserByPage(String currentPage, String rows, Map<String, String[]> map);
 }

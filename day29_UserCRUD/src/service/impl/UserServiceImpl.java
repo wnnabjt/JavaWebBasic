@@ -7,6 +7,7 @@ import userCRUD.PageBean;
 import userCRUD.User;
 
 import java.util.List;
+import java.util.Map;
 
 public class UserServiceImpl implements UserService {
     private UserDao dao = new UserDaoImpl();
@@ -51,14 +52,14 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public PageBean<User> findUserByPage(String _currentPage, String _rows) {
+    public PageBean<User> findUserByPage(String _currentPage, String _rows, Map<String, String[]> condition) {
         int currentPage = Integer.parseInt(_currentPage);
         int rows = Integer.parseInt(_rows);
         PageBean<User> pb = new PageBean<User>();
         pb.setRows(rows);
-        int totalCount = dao.findTotalCount();
+        int totalCount = dao.findTotalCount(condition);
         int start = (currentPage - 1) * rows;
-        List<User> list = dao.findUserByPage(start, rows);
+        List<User> list = dao.findUserByPage(start, rows, condition);
         pb.setList(list);
         pb.setTotalCount(totalCount);
         int totPage = (totalCount % rows == 0) ? (totalCount / rows) : (totalCount / rows + 1);
